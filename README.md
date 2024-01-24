@@ -7,3 +7,6 @@ I used to work there, and I think the food is pretty solid while being **afforda
 1. Oldtimer with cheese
 2. Big mouth bites
 3. Chicken crispers
+* Sam's Club
+* Target
+* Panda Express
