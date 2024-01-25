@@ -21,10 +21,8 @@ Merge a series of lists into a list of lists. For example, [1, 2, 3] and [4, 5, 
 def merge(*args, missing_val = None):
     max_length = max([len(lst) for lst in args])
     out_list = []
-
     for i in range(max_length):
         out_list.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
-
     return out_list 
 """
 ![source](https://code.pieces.app/collections/python)
