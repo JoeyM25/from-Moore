@@ -10,6 +10,6 @@ My favorite TV show is Better Call saul. My favorite movie is Whiplash. My favor
 | Lord of the Rings | A really good movie series that tells an intriguing story and sets a lot of precedent for other movies | J. R. R. Tolkien |
 | Breaking bad | It has Bryan Cranston and Aaron Paul | Vince Gilligan |
 ---
-> "I don't know, but today seems kinda odd" -- **Ice Cube**
+> "I don't know, but today seems kinda odd" -- *Ice Cube*
 
-> "Turn down for what?" -- **Lil' Jon**
+> "Turn down for what?" -- *Lil' Jon*
